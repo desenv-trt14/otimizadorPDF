@@ -63,7 +63,6 @@ public class Constant {
     public final static String TAMANHO_ARQUIVO_DEFINIDO = "tamanhoArquivoDefinido";
     public final static String MENSAGEM_ASSINATURA_DIGITAL = "mensagemAssinaturaDigital";
     public final static String URL_BASE_ASSINADOR_PREF = "urlBaseAssinador";
-  //  public final static String URL_BASE_ASSINADOR_HTTP = "http://wildfly.trt14.jus.br:8089/";
     public final static String URL_BASE_ASSINADOR_HTTP = "";
     public final static String MY_DIR = System.getProperty("user.home") + "\\Otimizador PDF\\";
     
