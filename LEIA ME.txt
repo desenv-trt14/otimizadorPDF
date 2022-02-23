@@ -1,0 +1,4 @@
+- PARA GERAR UMA NOVA VERSÃO, SIGA OS PASSOS:
+1 - No Netbeans, com o botão direito, clique em cima do projeto -> executar maven -> 32 bits ou 64 bits, isso irá gerar o .jar do projeto
+2 - Executar o gerarInstalador.bat ou gerarInstalador64.bat
+3 - O instalador estará disponível na pasta instalador/setup_[32|64]_rev_xx.exe

@@ -1,0 +1,5 @@
+C:\Users\developer\Documents\SharpDevelop Projects\PrintPS\PrintPS\bin\Debug\PrintPS.exe
+C:\Users\developer\Documents\SharpDevelop Projects\PrintPS\PrintPS\bin\Debug\PrintPS.pdb
+C:\Users\developer\Documents\SharpDevelop Projects\PrintPS\PrintPS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\developer\Documents\SharpDevelop Projects\PrintPS\PrintPS\obj\x86\Debug\PrintPS.exe
+C:\Users\developer\Documents\SharpDevelop Projects\PrintPS\PrintPS\obj\x86\Debug\PrintPS.pdb

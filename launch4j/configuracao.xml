@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>..\target\conversorPdf-1.0-SNAPSHOT.jar</jar>
+  <outfile>..\instalador\conversor.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\developer\Documents\NetBeansProjects\conversorpdf\target\classes\images\ConversorPDF.ico</icon>
+  <singleInstance>
+    <mutexName>conversorpdf</mutexName>
+    <windowTitle>Conversor PDF</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.7.0_67</minVersion>
+    <maxVersion>1.7.0_68</maxVersion>
+    <jdkPreference>jdkOnly</jdkPreference>
+    <runtimeBits>32</runtimeBits>
+    <initialHeapSize>256</initialHeapSize>
+    <maxHeapSize>1024</maxHeapSize>
+  </jre>
+</launch4jConfig>

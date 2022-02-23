@@ -1,0 +1,26 @@
+﻿O otimizador de PDF foi desenvolvido para facilitar a entrada 
+de arquivos em sistemas eletrônicos diversos.
+
+Foram utilizados no desenvolvimento:
+Netbeans 8.0.1
+Java 1.6u33
+Ghostscript 9.15 
+Ghost4j 0.5.1 
+Imagens gnome-icon-theme
+
+O sistema foi homologado para Windows 7 Professional
+
+Desenvolvedores:
+Daniel Ferreira
+Rodrigo Salvadori
+
+Contribuições:
+José Nogueira Neto
+
+Contatos:
+sti@trt14.jus.br
+(69) 3211-6506
+
+Copyleft GPL 2014
+Secretaria de Tecnologia da Informação e Comunicação
+Tribunal Regional do Trabalho da 14ª Região
